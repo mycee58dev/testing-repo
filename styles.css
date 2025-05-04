@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    background-color: hsl(210, 100%, 50%);
+}
+#color-box {
+    background-color: #ffee8c;
+    color: brown;
+}
+.intro-paragraph {
+    color:   #8A2BE2;
+}
+p {
+    color: rgba(0, 128, 0, 0.3)
+}
